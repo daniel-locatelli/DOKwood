@@ -1,0 +1,305 @@
+# Kriterien
+
+<details>
+  <summary>Österreichische baubook-Plattformen</summary>
+
+- **1. Technische Kriterien**
+  - **1.2. Gebäudebetrieb, Energieeffizienz**
+    - 1.2.1. Innovative, klimarelev. Heizsysteme, Niedertemperaturhzg., Warmwasserbereitung (22)
+    - 1.2.2. Vermeidung sommerlicher Überwärmung (1)
+- **2. Inhaltsstoffe**
+  - **2.1. organische Zusatzstoffe**
+    - 2.1.1. Grenzwert für organische Bestandteile in Mineralfarben (75)
+    - 2.1.2. Grenzwert für den Kunststoffgehalt in Leim(binder)farben (1)
+    - 2.1.3. Grenzwert für Kunststoffgehalt in mineralischen Produkten (501)
+    - 2.1.4. Grenzwert für Kunststoffgehalt in Dämmstoffen und Folien aus Papier (433)
+    - 2.1.5. Verputz mit maximal 6% Kunststoffanteil, Kleber zementgebunden (145)
+  - **2.2. Gefährliche Inhaltsstoffe**
+    - 2.2.1. Grenzwerte für KMR-Stoffe (1793)
+    - 2.2.2. Grenzwerte für KMR-Stoffe in Dämmstoffen (828)
+    - 2.2.3. Verbot von klimaschädlichen Substanzen (315)
+    - 2.2.4. Grenzwerte für gewässergefährdende Stoffe (1710)
+    - 2.2.5. Verbot von Alkylphenolethoxylaten (APEO) (1185)
+    - 2.2.6. Verbot von Phthalaten (317)
+    - 2.2.7. Verbot von Oximen und Aminen (263)
+    - 2.2.8. Grenzwerte für flüchtige aromatische Kohlenwasserstoffe (866)
+    - 2.2.9. Ausschluss von N-Nitrosaminen in Bodenbelägen auf Kautschukbasis (7)
+    - 2.2.10. Verbot von gesundheitsgefährdenden Stoffen (314)
+    - 2.2.11. Verbot von SVHC (1786)
+    - 2.2.12. Verbot von akut toxischen Stoffen (2392)
+    - 2.2.13. Verbot von Bisphenolen (14)
+    - 2.2.14. Vermeidung der Verbreitung von HBCD (314)
+    - 2.2.15. Verbot von Zirkoniumsalz der 2-Ethyl-Hexansäure (304)
+    - 2.2.16. Verbot von flüchtigen aromatischen Kohlenwasserstoffen (736)
+  - **2.3. Schwermetalle**
+    - 2.3.1. Grenzwert für Schwermetalle in Bodenbelägen (49)
+    - 2.3.2. Grenzwerte für zinnorganische Verbindungen (327)
+    - 2.3.3. Grenzwerte für Schwermetalle (683)
+  - **2.4. PVC und halogenorganische Verbindungen**
+    - 2.4.1. Vermeidung von PVC (977)
+    - 2.4.2. Grenzwerte für halogenorganische Verbindungen (1215)
+    - 2.4.3. Grenzwert für halogenorganische Verbind. bei Bodenbelagsarbeiten und Klebstoffen (653)
+    - 2.4.4. Grenzwert für halogenorganische Verbindungen in Beschichtungen (765)
+    - 2.4.5. Grenzwert für flüchtige chlororganische Verbindungen (0)
+    - 2.4.6. Grenzwert für flüchtige halogenorganische Verbindungen in Dämmstoffen (323)
+    - 2.4.7. Vollständiger Ausschluss von halogenorganischen Stoffen (2185)
+    - 2.4.8. Vermeidung von PVC in Folien (402)
+    - 2.4.9. Vermeidung von PVC in Fußboden- und Wandbekleidungen (95)
+    - 2.4.10. Vermeidung von PVC in Sonnen- und/oder Sichtschutz am Objekt (1)
+    - 2.4.11. PVC frei - Fenster, Türen, Rollläden (V und k:a) (137)
+    - 2.4.12. PVC frei - Rohre im Gebäude, Folien, Fußbodenbeläge und Tapeten (446)
+    - 2.4.13. PVC frei - Wasser-, Abwasser-, Zu- und Abluftrohre im Gebäude (54)
+  - **2.5. Lösungsmittel und andere flüchtige organische Verbindungen**
+    - 2.5.1. VOC- und SVOC-Grenzwerte für Innenwandfarben (227)
+    - 2.5.2. VOC- und SVOC-Grenzwerte für Innenputze (249)
+    - 2.5.3. VOC- und SVOC-Grenzwerte in Behandlungen von min.BB (13)
+    - 2.5.4. VOC- und SVOC-Grenzwerte für Innenbeschichtungen (177)
+    - 2.5.5. VOC- und SVOC-Grenzwerte für Dichtmassen (166)
+    - 2.5.6. VOC- und SVOC-Grenzwerte für Betonbeschichtungen (60)
+    - 2.5.7. VOC- und SVOC-Grenzwerte für Brandschutzbeschichtungen
+    - 2.5.8. VOC- und SVOC-Grenzwerte für Belagsbeschichtungen (56)
+    - 2.5.9. VOC-Grenzwerte für Außenbeschichtungen (130)
+    - 2.5.10. VOC-Grenzwerte für Außenputze (90)
+    - 2.5.11. VOC- und SVOC-Grenzwerte für sonstige Bauprodukte (323)
+  - **2.6. Biozide**
+    - 2.6.1. Grenzwerte für Biozide (1264)
+    - 2.6.2. Grenzwert für freien Formaldehyd (1350)
+    - 2.6.3. Vermeidung von fungiziden Wirkstoffen in Dichtmassen (119)
+    - 2.6.4. Verbot für Biozideinsatz in Fassadenputzen und -anstrichen (143)
+    - 2.6.6. Vermeidung von Holzschutzmitteln (161)
+    - 2.6.8. Einschränkung von Holzschutzmitteln (118)
+    - 2.6.9. Ausschluss von durchwurzelungshemmenden Wirkstoffen (37)
+  - **2.7. Flammschutzmittel**
+    - 2.7.1. Verbot von kritischen Flammschutzmitteln (682)
+  - **2.8. Pigmente**
+    - 2.8.1. Grenzwert für Azofarbstoffe (166)
+  - **2.9. Sonstige**
+    - 2.9.1. Vermeidung von Reaktionslacken (283)
+    - 2.9.2. Verbot von Epoxid- und PU-Systemen für Industrieböden (0)
+    - 2.9.3. Verbot von säurehärtenden Beschichtungen (252)
+- **3. Herstellung**
+  - **3.1. Sekundärrohstoffe**
+    - 3.1.1. Verwendung von Sekundärrohstoffen in Beton (75)
+  - **3.2. Natürliche Rohstoffe**
+    - 3.2.1. Anforderung an die Natürlichkeit von Lehmputzen (7)
+    - 3.2.2. Produkte aus natürlichen Materialien (495)
+    - 3.2.3. Anforderung an die Natürlichkeit von Lehmprodukten (10)
+    - 3.2.4. Ressourcenschonende Zusammensetzung von Korkdämmplatten (1)
+    - 3.2.5. Gesundheitsverträgliche Trennmittel auf pflanzlicher Basis (5)
+    - 3.2.6. Verwendung von Dämmstoffen aus nachwachsenden Rohstoffen (89)
+  - **3.3. Nachhaltige Gewinnung**
+    - 3.3.1. Verbot von Tropenholz aus nicht nachhaltiger Produktion (331)
+    - 3.3.2. Verbot von Nichttropenhölzern aus nicht nachhaltiger Holzgewinnung (387)
+    - 3.3.3. Berücksichtigung sozialer Standards bei der Natursteingewinnung (0)
+    - 3.3.4. Nachhaltige Gipsgewinnung (11)
+    - 3.3.5. Papiererzeugung ohne problematische Zusatzstoffe (5)
+    - 3.3.6. Verbot von Tropenholz aus nicht nachhaltiger Produktion für Papiererzeugnisse (12)
+    - 3.3.7. Mindestanteil an Hölzern aus nachhaltiger Forstwirtschaft (381)
+    - 3.3.8. Holz aus nachhaltiger Gewinnung (181)
+- **4. Errichtung**
+  - 4.1. Grenzwert für Lösungsmittelgehalt in Bitumenmassen (31)
+  - 4.2. Isocyanatfreie Montageschäume (2)
+- **5. Emissionen**
+  - **5.1. Kohlenwasserstoffe**
+    - 5.1.1. Grenzwerte für VOC- und SVOC-Emissionen aus Holzwerkstoffen (82)
+    - 5.1.2. Grenzwert für Formaldehydemissionen aus Holzwerkstoffen (79)
+    - 5.1.3. Grenzwerte für die Emissionen aus Verlegewerkstoffen (438)
+    - 5.1.4. VOC- und SVOC-Grenzwerte für textile BB (23)
+    - 5.1.5. Grenzwerte für VOC- und SVOC-Emissionen in elastische Bodenbelägen (27)
+    - 5.1.6. VOC- und SVOC-Grenzwerte für Dämmstoffe (433)
+    - 5.1.7. VOC- und SVOC-Grenzwerte für Holzfaser-Dämmstoffe (32)
+    - 5.1.8. Grenzwerte für VOC- und SVOC-Emissionen aus Türen (0)
+    - 5.1.12. Bodenbelag - Oberflächenbehandlung emissionsarm, aromatenfrei (110)
+    - 5.1.13. Holzwerkstoffe emissionsarm (67)
+  - **5.4. Emissionen: Geruch**
+    - 5.4.1. Geruchsarme Bodenbeläge (49)
+    - 5.4.2. Geruchsarme Korkdämmstoffe (0)
+- **6. Entsorgung**
+- **7. Sonstiges**
+
+- 7.1. Produkte mit Umweltzeichen (310)
+
+</details>
+
+<details>
+  <summary>BNB 1.1.6 & QNG 3.1.3 (Deutschland)</summary>
+
+- **1. Gefährliche Stoffe und Produkte**
+  - **1.1. Gefährliche Stoffe**
+    - 1.1.1. Deklaration besonders besorgniserregender Stoffe (SVHC) (667)
+    - 1.1.2. Ausschluss besonders besorgniserregender Stoffe (SVHC) (321)
+    - 1.1.3. Ausschluss von CMR-Stoffen der Kategorien 1A und 1B (484)
+    - 1.1.4. Ausschluss von CMR-Stoffen der Kategorie 2 (155)
+    - 1.1.5. Ausschluss akut toxischer Stoffe (Acute Tox) (357)
+    - 1.1.6. Ausschluss toxischer Stoffe mit STOT SE 1 oder STOT RE 1 (240)
+    - 1.1.7. Ausschluss toxischer Stoffe mit STOT SE 2 und STOT RE2 (44)
+    - 1.1.8. Ausschluss von gesundheitsschädlichen Stoffen (74)
+    - 1.1.9. Ausschluss von ätzenden Stoffen (79)
+    - 1.1.10. Ausschluss gefährlicher Stoffe in textilen Bodenbelägen (20)
+  - **1.2. Umweltgefährliche Stoffe**
+    - 1.2.1. WDVS: Ausschluss von PBT-/ vPvB- Stoffen als Flammschutzmittel (71)
+    - 1.2.2. Ausschluss umweltgefährlicher Stoffe (61)
+    - 1.2.3. WDVS: Ausschluss von umweltgefährlichen Stoffen als Flammschutzmittel (38)
+  - **1.3. Gefährliche Produkte**
+    - 1.3.1. Ausschluss akut toxischer Produkte (Acute Tox) (146)
+    - 1.3.2. Ausschluss von gewässergefährdenden Produkten (82)
+    - 1.3.3. Ausschluss von reizenden Produkten (74)
+  - **1.4. Flammschutzmittel**
+    - 1.4.1. Ausschluss von Chlorparaffinen (CP) (91)
+    - 1.4.2. Ausschluss von Polybromierten Diphenylether (PBDE) (46)
+    - 1.4.3. Ausschluss von Hexabromcyclododecan (HBCDD) (49)
+    - 1.4.4. Ausschluss von Tris(2-chlorethyl)phosphat (TCEP) (84)
+    - 1.4.5. Ausschluss von reproduktionstoxischen Borverbindungen (19)
+    - 1.4.6. Ausschluss von Polybromierten Biphenylen (PBB) (30)
+    - 1.4.7. Ausschluss von Antimontrioxid, TEPA und TRIS (20)
+    - 1.4.8. Beschränkung auf bestimmte Flammschutzmittel (34)
+  - **1.5. Weichmacher**
+    - 1.5.1. Ausschluss von reproduktionstoxischen Phthalaten (114)
+    - 1.5.2. Ausschluss von Phthalaten (Weichmacher) (298)
+    - 1.5.3. Ausschluss von Weichmachern gemäß VdL-RL 01 (58)
+    - 1.5.4. Ausschluss von Organophosphaten als Weichmacher (102)
+  - **1.6. Farbstoffe und Pigmente**
+    - 1.6.1. Verbot von problematischen Pigmenten in Dämmstoffbeschichtungen (106)
+    - 1.6.2. Ausschluss von Azofarbstoffen (20)
+    - 1.6.3. Ausschluss schwermetallhaltiger Farbstoffe und Pigmente (20)
+    - 1.6.4. Ausschluss von Farbstoffen mit gefährlichen Eigenschaften (20)
+  - **1.7. Schadstoffverschleppung**
+    - 1.7.1. Ausschluss von Altreifengranulat
+  - **1.8. Sonstige**
+    - 1.8.1. Ausschluss von Alkylphenolethoxylaten (APEO) (154)
+    - 1.8.2. Beschränkung des Restmonomergehalts im Bindemittel (68)
+    - 1.8.4. Ausschluss von amin- oder oximvernetzenden Silikonen im Innenraum (35)
+    - 1.8.5. Ausschluss von Methylethylketoxim und von Butanonoxim abspaltenden Produkten (143)
+- **2. Metalle**
+  - 2.1. Ausschluss von Cadmium- und Bleistabilisatoren in PVC-Produkten (41)
+  - 2.1b. Ausschluss von Zinn-, Cadmium- und Bleistabilisatoren in PVC-Produkten (41)
+  - 2.2. Einschränkung zinnorganischer Verbindungen in silanmodifizierten Polymerklebst. (44)
+  - 2.3. Ausschluss von Blei-, Cadmium- und Chrom-VI-Verbindungen (143)
+  - 2.3b. Ausschluss von Blei-, Cadmium- und Chrom-VI-Verbindungen in Lacken/Lasuren (77)
+  - 2.4. Chrom-VI-oxidfreie Passivierungsmittel (10)
+- **3. VOC, SVOC und Formaldehyd-Emissionen in die Raumluft**
+  - **3.1. AgBB-Bewertungsschema**
+    - 3.1.1. Einhaltung des AgBB-Bewertungsschemas (114)
+    - 3.1.1b. Einhaltung des AgBB-Bewertungsschemas für QNG (32)
+    - 3.1.2. Einhaltung des AgBB-Bewertungsschemas und TVOC<0,25mg/m3 (6)
+  - **3.2. Bodenbeläge**
+    - 3.2.1. Holz-Bodenbeläge: Grenzwerte VOC-Emissionen und Formaldehyd (8)
+    - 3.2.2. Textile-Bodenbeläge: Grenzwerte VOC-Emissionen und Formaldehyd (20)
+    - 3.2.3. Elastische-Bodenbeläge: Grenzwerte VOC-Emissionen und Formaldehyd (15)
+  - **3.3. Dämmstoffe**
+    - 3.3.1. Dämmstoffe Innen: Grenzwerte VOC-Emissionen und Formaldehyd (78)
+  - **3.4. Holz und Holzwerkstoffe**
+    - 3.4.1. Grenzwert für Formaldehydemissionen aus Holzwerkstoffplatten (12)
+    - 3.4.2. Formaldehydemissionen aus Holzwerkstoffplatten max. 0,065 ppm (11)
+    - 3.4.3. Formaldehydemissionen aus Holzwerkstoffplatten max. 0,05 ppm (11)
+    - 3.4.4. Grenzwerte für VOC-Emissionen und Formaldehyd (10)
+    - 3.4.5. Formaldehydemissionen aus Holzwerkstoffplatten max. 0,08 ppm (9)
+  - **3.5. Kleb- und Dichtstoffe**
+    - 3.5.1. Kleb- und Dichtstoffe im Innenbereich: Grenzwerte VOC-Emissionen und Formaldehyd (45)
+    - 3.5.3. Verlegewerkstoffe: Grenzwerte VOC-Emissionen und Formaldehyd (43)
+    - 3.5.4. Kleb- u. Dichtstoffe f. Luftdichtheit: Grenzwerte VOC-Emissionen und Formaldehyd (45)
+    - 3.5.5. EMICODE EC1Plus für PU-Montageschäume (11)
+  - **3.6. Verlegung**
+    - 3.6.1. Grenzwert für Methanol bei silanmodifizierten Polymerklebstoffen (SMP-Klebst.) (40)
+- **4. VOC-, SVOC-Gehalt**
+  - **4.1. GISCODEs**
+    - 4.1.1. GISCODE-Einstufung BBP30 oder besser (für Einsatz in Umkehrdächern) (1)
+    - 4.1.2. GISCODE-Einstufung BBP10 oder BBP20 (Kriterium gilt nicht für Umkehrdächer) (9)
+    - 4.1.4. GISCODE-Einstufung PU10 bzw. kein Polyurethan(PU)-Produkt (1)
+    - 4.1.5. GISCODE-Einstufung PU10 oder PU20 bzw. kein Polyurethan(PU)-Produkt (53)
+    - 4.1.6. GISCODE-Einstufung PU10, PU40 oder PU60 bzw. kein Polyurethan(PU)-Produkt (1)
+    - 4.1.7. GISCODE-Einstufung PU10, PU20, PU40 oder PU60 bzw. kein Polyurethan(PU)-Produkt (2)
+    - 4.1.8. Mineral. Fliesenkleber od. Einstufung in GISCODE D1 / RU0,5 / RU1 / RE1 /RS10 (34)
+    - 4.1.9. Pulverförmiger Tapetenkleber oder GISCODE D1 (0)
+    - 4.1.10. GISCODE-Einstufung Ö10, Ö20 oder Ö40 (7)
+    - 4.1.11. GISCODE-Einstufung Ö10 oder Ö20 (7)
+    - 4.1.11b. GISCODE-Einstufung Ö10, Ö10+ oder Ö20, Ö20+ (8)
+    - 4.1.12. GISCODE-Einstufung Ö10 (5)
+    - 4.1.13. GISCODE-Einstufung GH10 (0)
+    - 4.1.14. GISCODE-Einstufung W1, W1/DD, W2+, W2/DD+, W3+ oder W3/DD+ (2)
+    - 4.1.15. GISCODE Einstufung W1, W1/DD, W2+, W2/DD+ (1)
+    - 4.1.16. GISCODE-Einstufung RE1 oder RE0 bzw. kein Epoxidharz-Produkt (1)
+    - 4.1.17. GISCODE-Einstufung RE1, RE0 oder RE2 bzw. kein Epoxidharz-Produkt (1)
+    - 4.1.17b. GISCODE-Einstufung RE05, RE10 oder RE20 bzw. kein Epoxidharz-Produkt (1)
+    - 4.1.18. GISCODE-Einstufung RMA10 bzw. kein PMMA-Produkt
+    - 4.1.19. GISCODE-Einstufung für Flüssigabdichtungen (13)
+    - 4.1.19b. GISCODE-Einstufung für Flüssigabdichtungen (neu) (13)
+  - **4.2. VOC-Gehalt**
+    - 4.2.1. Beschränkung des VOC-Gehalts für Lb auf 300 g/l (80)
+    - 4.2.2. Nur wasserbasierte Produkte und Beschränkung des VOC-Gehalts für 140 g/l
+    - 4.2.3. Nur wasserbasierte Produkte und Beschränkung des VOC-Gehalts für 130 g/l (81)
+    - 4.2.4. Nur wasserbasierte Produkte und Beschränkung des VOC-Gehalts auf 100 g/l (80)
+    - 4.2.5. Beschränkung des VOC-Gehalts auf 40 g/l (12)
+    - 4.2.6. Nur wasserbasierte Produkte (Wb) und Beschränkung des VOC-Gehalts auf 40 g/l (2)
+    - 4.2.7. Nur wasserbasierte Produkte (Wb) und Beschränkung des VOC-Gehalts auf 30 g/l (29)
+    - 4.2.8. Nur wasserbasierte Produkte (Wb) und Beschränkung des VOC-Gehalts auf 20 g/l (1)
+    - 4.2.9. Beschränkung des VOC-Gehalts auf 1 Gramm pro Liter (63)
+    - 4.2.10. Beschränkung des Lösemittelgehalts auf maximal 5 % (2)
+    - 4.2.11. Beschränkung des VOC-Gehalts von Wandfarben (34)
+    - 4.2.12. Beschränkung des VOC-Gehalts von Lacken (64)
+    - 4.2.13. lösemittelfrei und weichmacherfrei (ELF) gemäß VdL-RL01 (28)
+  - **4.3. Gesamtsystem**
+    - 4.3.1. Beschränkung des VOC-Gehalts auf 150 g/m2
+    - 4.3.2. Beschränkung des VOC-Gehalts auf 120 g/m2
+    - 4.3.3. Beschränkung des VOC-Gehalts auf 90 g/m2
+    - 4.3.4. Beschränkung des VOC-Gehalts auf 60 g/m2
+    - 4.3.5. Beschränkung des VOC-Gehalts auf 30 g/m2
+- **5. Halogenorganische Verbindungen**
+  - 5.1. Ausschluss von halogenierten Treibmitteln (46)
+  - 5.2. Ausschluss von halogenierten organischen Verbindungen als Flammschutzmittel (55)
+  - 5.3. Ausschluss von halogenierten organischen Verbindungen (121)
+  - 5.4. Ausschluss von PVC-Rückenschichten (20)
+  - 5.5. Ausschluss von polyfluorierten Chemikalien (PFC) (21)
+- **6. Biozide**
+  - **6.1. Biozideinsatz im Produkt**
+    - 6.1.1. Deklaration biozider Wirkstoffe (138)
+    - 6.1.2. Ausschluss von durchwurzelungshemmenden Wirkstoffen (ausgenommen Gründächer) (13)
+    - 6.1.3. Ausschluss von Bioziden in WDVS oder Innendämmungen (77)
+    - 6.1.4. Verbot von Bioziden außer bestimmte Topfkonservierer (256)
+    - 6.1.5. Beschränkung der bioziden Ausrüstung von textilen Bodenbelägen (20)
+    - 6.1.6. Ausschluss von Bioziden in Holzbodenbelägen (12)
+    - 6.1.7. Reglementierung des Formaldehydgehalts in Lacken (70)
+    - 6.1.8. Beschränkung des Gehalts an freiem Formaldehyd aus zur Topfkonservierung (36)
+    - 6.1.9. Beschränkung von freiem Formaldehyd (29)
+    - 6.1.10. Verbot von Bioziden außer Topfkonservierer (18)
+  - **6.2. Biozideinsatz in der Herstellung**
+    - 6.2.1. Grenzwerte für Pestizide (20)
+- **7. Geruch**
+  - 7.1. Geruchsprüfung für textile Bodenbeläge (20)
+  - 7.2. Ausschluss von oxidierbaren Fettsäuren oder Fettsäureester (37)
+- **8. Produktgruppenausschlüsse**
+  - 8.1. Keine Verwendung von Spritz- und Montageschäumen (0)
+  - 8.2. Ausschluss von Urea-Formaldehyd-Schäumen (UF-Schäumen) (5)
+- **9. Qualitätssicherung in der Herstellung**
+  - 9.1. Einhaltung 31. BIMSchV bzw. TA-Luft für werkseitige Oberflächenbeschichtungen (9)
+  - 9.2. Anforderungen an Titandioxidpigmente
+
+</details>
+
+<details>
+  <summary>Internationale Gebäudelabels - VOC-Emissionen</summary>
+
+- **BNB**
+  - BNB - Keine Anforderungen bezüglich VOC- und SVOC-Emissionen (35)
+- **BREEAM**
+  - Standard-BREEAM-Grenzwerte für VOC- und VOC-Emissionen in die Raumluft (25)
+  - BREEAM-Grenzwerte für herausragende Qualität bez. VOC- und SVOC-Emissionen (25)
+- **DGNB**
+  - DGNB - Keine Anforderungen bezüglich VOC- und SVOC-Emissionen in die Raumluft (37)
+- **LEED**
+  - LEED-Grenzwerte für VOC- und SVOC-Emissionen in die Raumluft (31)
+
+</details>
+
+<details>
+  <summary>LEED v4.1 Gebäudedesign und -bau (2020)</summary>
+
+- **LEED v4.1 Gebäudedesign und -bau (2020)**
+  - **LEED MR Materialien und Ressourcen**
+    - LEED MR Credit: Nachweis einer Umweltproduktdeklaration (183)
+    - LEED MR Credit: Optimierung der CO2-Bilanz / LCA (2)
+    - LEED MR Credit: Gewinnung der Rohstoffe (24)
+    - LEED MR Credit: Berichterstattung über Produktinhaltsstoffe (15)
+    - LEED MR Credit: Optimierung der Inhaltsstoffe des Produkts (12)
+  - **LEED EQ Innenraumluftqualität - Emissionsarme Materialien** - LEED EQ Credit: Bewertung der VOC-Emissionen (240) - LEED EQ Credit: Bewertung des VOC-Gehalts (197) - LEED EQ Credit: Bewertung der Formaldehydemissionen (12) - LEED EQ Credit: Keine Anforderungen an Emissionsarmut (28)
+  </details>

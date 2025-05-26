@@ -36,8 +36,13 @@ erDiagram
     }
 
     Daemmwerte {
-        number luftschalldaemmwerte
-        number trittschalldaemmwerte
+        number luftschalldaemmwerte_c100_3150
+        number luftschalldaemmwerte_c50_3150
+        number luftschalldaemmwerte_ctr100_3150
+        number luftschalldaemmwerte_rw
+        number trittschalldaemmwerte_lnw
+        number trittschalldaemmwerte_ci100_2500
+        number trittschalldaemmwerte_ci50_2500
         string typschalldaemmwerte
     }
 
@@ -51,7 +56,7 @@ erDiagram
     }
 
     Oekobilanz {
-        ## Simplified - Many nested properties
+        string note "Complex structure with various oekobilanz_guid_prop"
     }
 
     Quellekonstruktion {
@@ -126,7 +131,7 @@ erDiagram
         number ubpf
         number ubpi
         number pe
-         ## ...and many more properties
+        string note "Many more oekobilanz-related properties"
     }
 
     FilterKeyLabelPair {
@@ -172,8 +177,6 @@ erDiagram
     Bauteil ||--o| Media : "has"
     Bauteil ||--o| Oekobilanz : "has"
     Bauteil ||--o| Quellekonstruktion : "has"
-    Daemmwerte ||--|| AcousticValues : "has"
-    Daemmwerte ||--|| ImpactSoundValues : "has"
     SiaProduct ||--o| Hersteller : "has"
     SiaProduct ||--o| Company : "has"
     FilterKeyLabelPair ||--o{ KeyLabelPair : "has"
