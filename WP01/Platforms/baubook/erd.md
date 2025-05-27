@@ -41,10 +41,10 @@ erDiagram
     RichtwertKennwert {
         int RichtwertKennwertID PK
         int RichtwertEintragID FK "Refers to RichtwertEintrag"
-        string Gruppe "e.g., Bauphysikalische Kennwerte"
+        string Gruppe "e.g., Bauphysikalische Kennwerte [cite: 7, 9]"
         string Name "Specific property name"
         string Wert "Property value"
-        string comment "Detailed key values for a RichtwertEintrag"
+        string comment "Detailed key values for a RichtwertEintrag [cite: 7, 9, 11]"
     }
 
     KriteriumQuelle {
@@ -55,14 +55,14 @@ erDiagram
     Kriterium {
         int KriteriumID PK
         int KriteriumQuelleID FK "Refers to KriteriumQuelle"
-        string Code "e.g., 1.2.1, 2.1.1"
+        string Code "e.g., 1.2.1, 2.2.9"
         string Titel
         int ParentKriteriumID FK "Self-ref for hierarchy"
-        text Anforderung "nullable, for leaf criteria"
-        text Nachweis_fuer_Hersteller "nullable, for leaf criteria"
-        text Ziel_und_Nutzen "nullable, for leaf criteria"
-        text Verwendung "nullable, for leaf criteria"
-        string comment "Represents tree structure from kriterien.md"
+        text Anforderung "nullable, for leaf criteria [cite: 4]"
+        text Nachweis_fuer_Hersteller "nullable, for leaf criteria [cite: 4]"
+        text Ziel_und_Nutzen "nullable, for leaf criteria [cite: 4]"
+        text Verwendung "nullable, for leaf criteria [cite: 4]"
+        string comment "Represents tree structure from kriterien.md [cite: 3]"
     }
 
     ProduktHauptkategorie {
@@ -137,13 +137,19 @@ erDiagram
     Produkt_Kriterien_Link {
         int ProduktID PK
         int KriteriumID PK
-        string comment "Junction Table. Composite PK (ProduktID, KriteriumID). ProduktID is FK to Produkt. KriteriumID is FK to Kriterium."
+        string comment "Junction Table. Composite PK (ProduktID, KriteriumID). ProduktID is FK to Produkt. KriteriumID is FK to Kriterium. Represents products meeting a criterion [cite: 1] and criteria relevant to a product."
     }
 
     Kriterium_ProduktUnterkategorie_Link {
         int KriteriumID PK
         int ProduktUnterkategorieID PK
-        string comment "Junction Table. Composite PK (KriteriumID, ProduktUnterkategorieID). KriteriumID is FK to Kriterium. ProduktUnterkategorieID is FK to ProduktUnterkategorie."
+        string comment "Junction Table. Composite PK (KriteriumID, ProduktUnterkategorieID). KriteriumID is FK to Kriterium. ProduktUnterkategorieID is FK to ProduktUnterkategorie. Represents 'Relevante Produktgruppen' for a Kriterium[cite: 2]."
+    }
+
+    RichtwertEintrag_Produkt_Link {
+        int RichtwertEintragID PK
+        int ProduktID PK
+        string comment "Junction Table. Composite PK (RichtwertEintragID, ProduktID). Links Richtwerte to Produkte that use them[cite: 7, 12]."
     }
 
     Katalog ||--o{ RichtwertBaumKategorie : "has"
@@ -159,9 +165,12 @@ erDiagram
     ProduktUnterkategorie ||--o{ Produkt : "contains_products"
     Firma ||--o{ Produkt : "supplies"
 
-    Produkt ||--o{ Produkt_Kriterien_Link : "links_to"
-    Kriterium ||--o{ Produkt_Kriterien_Link : "links_to"
+    Produkt ||--o{ Produkt_Kriterien_Link : "links_via"
+    Kriterium ||--o{ Produkt_Kriterien_Link : "links_via"
 
-    Kriterium ||--o{ Kriterium_ProduktUnterkategorie_Link : "links_to"
-    ProduktUnterkategorie ||--o{ Kriterium_ProduktUnterkategorie_Link : "links_to"
+    Kriterium ||--o{ Kriterium_ProduktUnterkategorie_Link : "links_via"
+    ProduktUnterkategorie ||--o{ Kriterium_ProduktUnterkategorie_Link : "links_via"
+
+    RichtwertEintrag ||--o{ RichtwertEintrag_Produkt_Link : "applies_to_product_via"
+    Produkt ||--o{ RichtwertEintrag_Produkt_Link : "uses_richtwert_via"
 ```
