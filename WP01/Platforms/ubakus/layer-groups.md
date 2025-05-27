@@ -1,0 +1,210 @@
+Baustoffsuche
+
+- Beton, Estrich
+  - Anhydritestrich
+  - Beton
+  - Beton armiert (1%)
+  - Beton armiert (2%)
+  - Gussasphalt
+  - Leichtbeton
+  - Zementestrich
+- Dichtbahnen, Folien
+  - Alufolie (beschichtet)
+  - Alufolie (blank)
+  - Dichtbahn, Bitumen
+  - Dichtbahn, EPDM
+  - Dichtbahn, Kunststoff
+  - Dichtung außen, Unterdeckbahnen
+  - Dichtung innen, Dampfbremsen
+  - Flüssige Abdichtungen
+  - Folie, EPDM
+  - Folie, PE
+  - Folie, PP
+  - Rieselschutz
+- DIN-Baustoffe
+- Dämmmatten, -wolle
+  - ROCKWOOL Klemmrock 035 (unavailable)
+  - ROCKWOOL Varirock 035 (unavailable)
+  - Aerogel
+  - Flexible Holzfaserdämmplatte
+  - Hanf
+  - ISOVER
+  - Jute
+  - Knauf Insulation
+  - Mineralwolle
+  - Reflexionsdämmung
+  - Schafwolle
+  - Seegras
+  - URSA
+  - Zelluloseplatten
+- Dämmplatten
+  - Hartschaum, EPS
+  - Hartschaum, PUR/PIR
+  - Hartschaum, Resol
+  - Hartschaum, rPET
+  - Hartschaum, XPS
+  - Holzfaserdämmplatte
+  - Kalziumsilikatplatte
+  - Kork
+  - Mineraldämmplatte
+  - Mineralwolledämmplatte
+  - Perlite
+  - Sandwichplatten
+  - Schaumglas
+  - Schilfrohr
+  - Vakuumdämmung
+- Dämmschüttungen
+  - AgriCell (unavailable)
+  - CEMWOOD Schüttung CW1000/CW2000 (unavailable)
+  - Insute 25-pro (unavailable)
+  - Jasmin classic (unavailable)
+  - NaturaSpan (unavailable)
+  - NeptuTherm (unavailable)
+  - EPS Granulat
+  - Hanf-Schüttung
+  - Holzfasern
+  - Korkschüttung
+  - Mineralische Produkte
+  - Ortschaum
+  - Stroh Einblasdämmung
+  - Zellulose
+- Einsatzbereiche
+  - DAA Außendämmung von Dach oder Decke, unter Abdichtungen
+  - DAD Außendämmung von Dach oder Decke, unter Deckungen
+  - DEO Innend. der Decke / Bodenpl. unter Estrich ohne Schallschutzanf.
+  - DES Innend. der Decke / Bodenpl. unter Estrich mit Schallschutzanf.
+  - DI Innendämmung der Decke (unterseitig) oder des Daches
+  - DUK Außendämmung des Daches, Umkehrdach
+  - DZ Zwischensparrendämmung
+  - PB Außen liegende Dämmung unter Bodenplatte gg. Erdreich
+  - PW Außen liegende Dämmung von Wänden gg. Erdreich
+  - WAA Außendämmung der Wand hinter Abdichtung
+  - WAB Außendämmung der Wand hinter Bekleidung
+  - WAP Außendämmung der Wand unter Putz
+  - WH Dämmung von Holzrahmen- und Holztafelbauweise
+  - WI Innendämmung der Wand
+  - WTH Dämmung zwischen Haustrennwänden mit Schallschutzanf.
+  - WTR Dämmung von Raumtrennwänden
+  - WZ Dämmung von zweischaligen Wänden, Kerndämmung
+- Fassade & Dach
+  - Biberschwanzziegel inkl. Lattung
+  - Dachsteine inkl. Lattung
+  - Falzziegel inkl. Lattung
+  - Schieferdeckung
+  - Holzschindeldeckung
+  - Indach Photovoltaikanlage
+  - Dachbahnen
+    - Dichtbahn, Bitumen
+    - Dichtbahn, EPDM
+    - Dichtbahn, Kunststoff
+  - Verblender
+  - Fassadenplatten
+  - Boden-Deckel-Schalung
+  - Profilholz (Nut und Feder)
+  - Stülpschalung
+- Holz
+  - Balken und Träger
+  - Platten und Bodenbeläge
+  - Profilholz (Fichte/Tanne)
+  - Vollholz
+  - Wand, Dach, Decke (Massivholz)
+- Mauerwerk
+  - Baustroh
+  - Massiv-Holz-Mauer MHM
+  - Thoma Holz100 Dach
+  - Thoma Holz100 Wände
+  - Hanfsteine
+  - Historisches Mauerwerk
+  - Kalksandstein
+  - Lehmsteine
+  - Leichtbeton
+  - Porenbeton 400kg/m3
+  - Porenbeton, Ytong
+  - UNIPOR ⭐
+  - Ziegel, Mein Ziegelhaus
+  - Ziegel, Poroton
+- Plattenwerkstoffe
+  - Bauplatten
+  - Fliesen (keramisch)
+  - Gipsplatten
+  - Holzwolleplatte
+  - Kalziumsilikatplatte
+  - Lehmbauplatten
+  - Leichtbeton-Bauplatte
+  - MDF / HDF
+  - OSB-Platte
+  - Parkett
+  - Spanplatte
+  - Sto ⭐
+- Putz und Mörtel
+  - Gipsputz
+  - Kalkgipsputz
+  - Kalkputz
+  - Kalkzementputz
+  - Kunstharzputz
+  - Lehmputz
+  - Leichtputz/Dämmputz
+  - Mörtel
+  - Oberputz
+  - Sanierputz
+  - Silikonharzputz
+  - Spachtel, Kleber und Putz für WDVS
+  - Unterputz
+  - Verblender
+  - Zementputz
+- Verschiedenes
+  - Hinterlüftung (Außenluft)
+  - Hinterlüftung (Raumluft)
+  - Installationsebene
+  - Luftschicht (ruhend)
+  - Massive Kunststoffe
+    - Acrylkunststoff
+    - Epoxydharz
+    - Phenolharz
+    - Polyacetatkunststoff
+    - Polyamid (Nylon)
+    - Polyamid 6.6 mit 25% Glasfasern
+    - Polycarbonat
+    - Polyesterharz
+    - Polyethylen/Polythen, hohe Rohdichte
+    - Polyethylen/Polythen, niedrige Rohdichte
+    - Polymethylmethacrylat (PMMA)
+    - Polypropylen
+    - Polypropylen mit 25% Glasfasern
+    - Polystyrol
+    - Polytetrafluorethylenkunststoff (PTFE)
+    - Polyurethan (PU)
+    - Polyvinylchlorid (PVC)
+  - Metalle
+    - Aluminium
+    - Blei
+    - Bronze
+    - Edelstahl V2A
+    - Gusseisen
+    - Kupfer
+    - Messing
+    - Stahl
+    - Trapezblech
+    - Träger und Profile aus Metall
+    - Zink
+  - Anstriche, Farbe
+  - Glas
+  - Historische Baustoffe
+    - Bauplatten
+    - Beläge, Abdichtungen, Abdichtbahnen
+    - Betone – Großformatige Bauteile
+    - Holz, Holzwerkstoffe
+    - Mauerwerk einschl. Mörtelfugen
+    - Putze, Estriche, Mörtel
+    - Schüttungen, Füllstoffe
+    - Sonstige gebräuchliche Stoffe
+    - Wärmedämmstoffe (inkl. historische Vorläufer)
+  - Schüttungen
+    - AGATON LEHMschüttung
+    - Claytec Lehmtrockenschüttung
+    - Kies (erdfeucht)
+    - Kies 16/32
+    - Sand (erdfeucht)
+    - Sand (trocken)
+    - Schlacke
+- Meine Baustoffe
