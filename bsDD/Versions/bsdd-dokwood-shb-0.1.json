@@ -1,0 +1,186 @@
+{
+  "ModelVersion": "2.0",
+  "OrganizationCode": "hm",
+  "DictionaryCode": "dokwood",
+  "DictionaryName": "DOKwood",
+  "DictionaryVersion": "0.1",
+  "LanguageIsoCode": "EN",
+  "LanguageOnly": false,
+  "UseOwnUri": false,
+  "License": "No license",
+  "ChangeRequestEmailAddress": "daniel.nunes_locatelli@hm.edu",
+  "ReleaseDate": "2025-08-20T00:00:00",
+  "Status": "Preview",
+  "Classes": [
+    {
+      "Code": "BuildUp",
+      "Name": "Build-Up",
+      "ClassType": "Class",
+      "Definition": "Defines the composition of a Building Element, i.e. the layers or products required for a specific function or performance",
+      "RelatedIfcEntityNamesList": [],
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "ClassProperties": [
+        {
+          "Code": "BuildUpThicknessProductDataSheet",
+          "PropertyCode": "ThicknessProductDataSheet",
+          "Unit": "mm",
+          "PredefinedValue": "None"
+        },
+        {
+          "Code": "BuildUpUValueDINENISO6946",
+          "PropertyCode": "UvalueDINENISO6946",
+          "Unit": "W/m²K",
+          "PredefinedValue": "None"
+        }
+      ]
+    },
+    {
+      "Code": "Product",
+      "Name": "Product",
+      "ClassType": "Material",
+      "Definition": "Construction product that can be acquired on the market and incorporated permanently in construction works or parts therof, e.g. pre-fabricated elements",
+      "RelatedIfcEntityNamesList": [],
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "ClassProperties": [
+        {
+          "Code": "ProductThicknessProductDataSheet",
+          "PropertyCode": "ThicknessProductDataSheet",
+          "Unit": "mm",
+          "PredefinedValue": "None"
+        },
+        {
+          "Code": "ProductThermalConductivityProductDataSheet",
+          "PropertyCode": "ThermalConductivityProductDataSheet",
+          "Unit": "W/mK",
+          "PredefinedValue": "None"
+        },
+        {
+          "Code": "ProductThermalConductivityENISO10456",
+          "PropertyCode": "ThermalConductivityENISO10456",
+          "Unit": "W/mK",
+          "PredefinedValue": "None"
+        }
+      ]
+    }
+  ],
+  "Properties": [
+    {
+      "Code": "ThicknessProductDataSheet",
+      "Name": "Thickness",
+      "Definition": "Nominal thickness of a layer or build-up measured perpendicularly to the major surface.",
+      "DataType": "Real",
+      "Units": [
+        "mm"
+      ],
+      "Example": "120.0",
+      "ActivationDateUtc": "2025-08-20T00:00:00",
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "DocumentReference": "Product Data Sheet",
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "AllowedValues": [
+        {
+          "Code": "ThicknessPDS-120",
+          "Value": "120.0"
+        }
+      ]
+    },
+    {
+      "Code": "ThermalConductivityProductDataSheet",
+      "Name": "Thermal Conductivity",
+      "Definition": "The quantity of heat transmitted per unit time through a unit area of a homogeneous material, of unit thickness, when its opposite faces differ in temperature by one kelvin.",
+      "DataType": "Real",
+      "Units": [
+        "W/mK"
+      ],
+      "Example": "0.13",
+      "ActivationDateUtc": "2025-08-20T00:00:00",
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "DocumentReference": "Product Data Sheet",
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "AllowedValues": [
+        {
+          "Code": "ThremalConductivityPDS-0,13",
+          "Value": "0.13"
+        }
+      ]
+    },
+    {
+      "Code": "ThermalConductivityENISO10456",
+      "Name": "Thermal Conductivity",
+      "Definition": "The quantity of heat transmitted per unit time through a unit area of a homogeneous material, of unit thickness, when its opposite faces differ in temperature by one kelvin.",
+      "DataType": "Real",
+      "Units": [
+        "W/mK"
+      ],
+      "Example": "0.13",
+      "ActivationDateUtc": "2025-08-20T00:00:00",
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "DocumentReference": "EN ISO 10456",
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "AllowedValues": [
+        {
+          "Code": "ThermalConductivityENISO10456-0,13",
+          "Value": "0.13"
+        }
+      ]
+    },
+    {
+      "Code": "UvalueDINENISO6946",
+      "Name": "U-Value",
+      "Definition": "The heat flow rate in the steady state divided by the area and by the temperature difference between the environments on each side of a system.",
+      "DataType": "Real",
+      "Units": [
+        "W/m²K"
+      ],
+      "Example": "0.147",
+      "ActivationDateUtc": "2025-08-20T00:00:00",
+      "CountriesOfUse": [
+        "CH",
+        "DE"
+      ],
+      "DocumentReference": "DIN EN ISO 6946:2018",
+      "ReplacedObjectCodes": [],
+      "ReplacingObjectCodes": [],
+      "SubdivisionsOfUse": [],
+      "Uid": "None",
+      "AllowedValues": [
+        {
+          "Code": "UValueDINENISO6946-0,147",
+          "Value": "0.147"
+        }
+      ]
+    }
+  ]
+}
