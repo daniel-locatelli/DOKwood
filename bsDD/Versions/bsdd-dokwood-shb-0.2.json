@@ -17,17 +17,13 @@
       "Name": "Build-Up",
       "ClassType": "Class",
       "Definition": "Defines the composition of a Building Element, i.e. the layers or products required for a specific function or performance.",
-      "RelatedIfcEntityNamesList": [
-        "IfcBuiltElement"
-      ],
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "RelatedIfcEntityNamesList": ["IfcBuiltElement"],
+      "CountriesOfUse": ["CH", "DE"],
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
       "Uid": "None",
+      "VersionNumber": 1,
       "ClassProperties": [
         {
           "PropertyCode": "ThicknessProductDataSheet",
@@ -48,17 +44,13 @@
       "Name": "Product",
       "ClassType": "Material",
       "Definition": "Construction product that can be acquired on the market and incorporated permanently in construction works or parts therof, e.g. pre-fabricated elements.",
-      "RelatedIfcEntityNamesList": [
-        "IfcMaterial"
-      ],
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "RelatedIfcEntityNamesList": ["IfcMaterial"],
+      "CountriesOfUse": ["CH", "DE"],
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
       "Uid": "None",
+      "VersionNumber": 1,
       "ClassProperties": [
         {
           "PropertyCode": "ThicknessProductDataSheet",
@@ -87,84 +79,68 @@
       "Name": "Thickness Product Data Sheet",
       "Definition": "Nominal thickness of a layer or build-up measured perpendicularly to the major surface",
       "DataType": "Real",
-      "Units": [
-        "mm"
-      ],
+      "Units": ["mm"],
       "Example": "120.0",
       "ActivationDateUtc": "2025-08-20T00:00:00",
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "CountriesOfUse": ["CH", "DE"],
       "DocumentReference": "Product Data Sheet",
       "MinInclusive": 0,
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
-      "Uid": "None"
+      "Uid": "None",
+      "VersionNumber": 1
     },
     {
       "Code": "ThermalConductivityProductDataSheet",
       "Name": "Thermal Conductivity Product Data Sheet",
       "Definition": "The quantity of heat transmitted per unit time through a unit area of a homogeneous material, of unit thickness, when its opposite faces differ in temperature by one kelvin.",
       "DataType": "Real",
-      "Units": [
-        "W/mK"
-      ],
+      "Units": ["W/mK"],
       "Example": "0.13",
       "ActivationDateUtc": "2025-08-20T00:00:00",
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "CountriesOfUse": ["CH", "DE"],
       "DocumentReference": "Product Data Sheet",
       "MinInclusive": 0,
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
-      "Uid": "None"
+      "Uid": "None",
+      "VersionNumber": 1
     },
     {
       "Code": "ThermalConductivityENISO10456",
       "Name": "Thermal Conductivity EN ISO 10456",
       "Definition": "The quantity of heat transmitted per unit time through a unit area of a homogeneous material, of unit thickness, when its opposite faces differ in temperature by one kelvin.",
       "DataType": "Real",
-      "Units": [
-        "W/mK"
-      ],
+      "Units": ["W/mK"],
       "Example": "0.13",
       "ActivationDateUtc": "2025-08-20T00:00:00",
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "CountriesOfUse": ["CH", "DE"],
       "DocumentReference": "EN ISO 10456:2010-05",
       "MinInclusive": 0,
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
-      "Uid": "None"
+      "Uid": "None",
+      "VersionNumber": 1
     },
     {
       "Code": "UvalueDINENISO6946",
       "Name": "U-Value DIN EN ISO 6946",
       "Definition": "The heat flow rate in the steady state divided by the area and by the temperature difference between the environments on each side of a system.",
       "DataType": "Real",
-      "Units": [
-        "W/m²K"
-      ],
+      "Units": ["W/m²K"],
       "Example": "0.147",
       "ActivationDateUtc": "2025-08-20T00:00:00",
-      "CountriesOfUse": [
-        "CH",
-        "DE"
-      ],
+      "CountriesOfUse": ["CH", "DE"],
       "DocumentReference": "DIN EN ISO 6946:2018",
       "MinInclusive": 0,
       "ReplacedObjectCodes": [],
       "ReplacingObjectCodes": [],
       "SubdivisionsOfUse": [],
-      "Uid": "None"
+      "Uid": "None",
+      "VersionNumber": 1
     }
   ]
 }

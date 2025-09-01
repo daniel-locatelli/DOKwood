@@ -40,6 +40,7 @@ def load_excel(EXCEL_PATH):
     """
 
     try:   
+        pd.set_option("future.no_silent_downcasting", True)
         excel_df = pd.ExcelFile(EXCEL_PATH)
     except PermissionError:
         print("\n\n\033[0;31mLooks like the Excel file is open by another tool. Please close the file and try again.\033[0m\n")
@@ -85,7 +86,7 @@ def map_data(excel_data, bsdd_part_template, name=""):
             for column_name, column_data in row.items():
                 if column_name in template:
                     # Convert date to: 2022-05-12T00:00:00+02:00
-                    if type(column_data) == pd._libs.tslibs.timestamps.Timestamp:
+                    if isinstance(column_data, pd.Timestamp):
                         column_data = column_data.isoformat()
                     elif "Date" in column_name and column_data:
                         column_data = pd.to_datetime(column_data, origin='1899-12-30', unit='D').isoformat()
@@ -174,6 +175,8 @@ def excel2bsdd(excel, bsdd_template):
     allowed_vals = map_data(excel['allowedvalue'], bsdd_template['Properties'][0]['AllowedValues'], "allowed-values")
     for allowed_val in allowed_vals:
         # only one of the two Code columns is possible:
+        relToProperty = None
+        related = None
         if allowed_val['(Origin Property Code)']:
             relToProperty = True
             related = allowed_val['(Origin Property Code)']
@@ -184,7 +187,7 @@ def excel2bsdd(excel, bsdd_template):
             print("WARNING! Allowed value without origin property or classProperty code! It will NOT be added to the JSON file.")
         allowed_val.pop("(Origin Property Code)")
         allowed_val.pop("(Origin ClassProperty Code)")
-        if relToProperty:
+        if relToProperty is not None and related is not None:
             # iterate all properties and add AllowedValue if such property is present in the spreadsheet
             found_it = False
             for item in bsdd_data['Properties']:
